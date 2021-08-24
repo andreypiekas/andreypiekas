@@ -27,3 +27,12 @@
 
 </div>
 
+
+##
+
+
+<div>
+ 
+ ![Snake animation](https://github.com/andreypiekas/andreypiekas/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
