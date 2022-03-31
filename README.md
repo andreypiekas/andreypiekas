@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java , Python, C, JavaScript**
+- 💬 Ask me about **Java , Python, C, JavaScript, SQL**
 
 - 📫 How to reach me **andrey.piekas@gmail.com**
 
